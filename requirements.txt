@@ -1,0 +1,12 @@
+ad3==2.2.1
+Click==7.0
+cymysql==0.9.12
+Flask==1.0.2
+Flask-SQLAlchemy==2.3.2
+freeze==1.0.10
+ItsDangerous==1.0.0
+Jinja2==2.10
+MarkupSafe==1.0
+six==1.11.0
+SQLAlchemy==1.2.12
+Werkzeug==0.14.1

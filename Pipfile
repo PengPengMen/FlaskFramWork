@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+flask-sqlalchemy = "*"
+sqlalchemy = "*"
+cymysql = {version = "*", index = "https://pypi.tuna.tsinghua.edu.cn/simple"}
+freeze = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
